@@ -3,7 +3,7 @@
 	"displayName": "cool-tabs",
 	"description": "Make tabs cool",
 	"version": "0.0.1",
-	"publisher": "Blatoy & RedMser",
+	"publisher": "BlaMser",
 	"engines": {
 		"vscode": "^1.53.0"
 	},
