@@ -4,6 +4,10 @@
 	"description": "Make tabs cool",
 	"version": "0.0.1",
 	"publisher": "BlaMser",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Blatoy/cool-tabs.git"
+	},
 	"engines": {
 		"vscode": "^1.53.0"
 	},
