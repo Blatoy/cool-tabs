@@ -1,9 +1,9 @@
-# Change Log
+# Changelog
 
-All notable changes to the "cool-tabs" extension will be documented in this file.
+## [0.0.2] - 2021-02-10
+### Fixed
+- Extension can now be installed on older version of VSCode
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+## [0.0.1] - 2021-02-09
+### Added
+- `cool-tabs:atEndOfLine` and `cool-tabs:atStartOfLine` can be used as a "when" conditions for key shortcuts
